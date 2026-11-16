@@ -23,7 +23,7 @@ A modern and interactive desktop application for converting text to speech, buil
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/z9v66/Text-To-Speech-App.git
+   git clone [https://github.com/z9v66/Text-To-Speech-App.git]
 2. pip install pyttsx3
 3. pip install customtkinter
 4. Run
